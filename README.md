@@ -10,6 +10,7 @@ GunShotPanda 的个人博客
 
 ### 最新
 
+* [公司黑客松-实时发号系统方案](http://www.lipeiran.cn/articles/2019/08/09/1565282884960.html)
 * [世界，你好！](http://www.lipeiran.cn/hello-solo)
 
 
