@@ -11,6 +11,7 @@ GunShotPanda 的胡言乱语
 ### 最新
 
 * [打卡贴，改毛病](http://www.lipeiran.cn/articles/2019/08/15/1565879298267.html)
+* [Redis学习笔记](http://www.lipeiran.cn/articles/2019/08/14/1565770847322.html)
 * [旧文：win10 + kalilinxu双系统踩坑实录](http://www.lipeiran.cn/articles/2019/08/09/1565352643618.html)
 * [旧文：codeblocks](http://www.lipeiran.cn/articles/2019/08/09/1565351904043.html)
 * [旧文：在surface pro 3 上运行linux](http://www.lipeiran.cn/articles/2019/08/09/1565351572974.html)
